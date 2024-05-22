@@ -4,6 +4,6 @@ Primarily interested in UX, accessibility and, lately, real-time collaborative w
 
 Available for freelance projects and consulting.
 
-Personal website: [alexterenda.com](https://www.alexterenda.com/)
-Twitter: [Twitter](https://twitter.com/alexterenda)
+Personal website: [alexterenda.com](https://www.alexterenda.com/)  
+Twitter: [Twitter](https://twitter.com/alexterenda)  
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/alexterenda/).
