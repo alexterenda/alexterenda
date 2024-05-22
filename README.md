@@ -1,5 +1,9 @@
-### Hey, I'm Alex 👋
+Independent product designer and engineer helping early stage startups solve complex problems with simple, elegant interfaces.
 
-I'm a product designer & developer from London 🌧️ in love with immersive web experiences, coffee and coffee derivatives.
+Primarily interested in UX, accessibility and, lately, real-time collaborative web apps.
 
-Find me on [Twitter](https://twitter.com/alexterenda) or [LinkedIn](https://www.linkedin.com/in/alexterenda/).
+Available for freelance projects and consulting.
+
+Personal website: [alexterenda.com](https://www.alexterenda.com/)
+Twitter: [Twitter](https://twitter.com/alexterenda)
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/alexterenda/).
