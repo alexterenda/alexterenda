@@ -6,4 +6,4 @@ Available for freelance projects and consulting.
 
 Personal website: [alexterenda.com](https://www.alexterenda.com/)  
 Twitter: [Twitter](https://twitter.com/alexterenda)  
-LinkedIn: [LinkedIn](https://www.linkedin.com/in/alexterenda/).
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/alexterenda/)
